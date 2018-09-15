@@ -1,0 +1,1 @@
+Following [https://doc.rust-lang.org/book/2018-edition](https://doc.rust-lang.org/book/2018-edition)
